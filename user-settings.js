@@ -20,5 +20,6 @@
     "workbench.colorTheme": "Default Light+",
     "workbench.iconTheme": "vs-minimal",
     "workbench.welcome.enabled": false,
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "emmet.triggerExpansionOnTab": true
 }
