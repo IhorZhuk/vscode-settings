@@ -22,5 +22,6 @@
     "workbench.welcome.enabled": false,
     "editor.minimap.enabled": false,
     "emmet.triggerExpansionOnTab": true,
-    "window.zoomLevel": -1
+    "window.zoomLevel": -1,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
 }
