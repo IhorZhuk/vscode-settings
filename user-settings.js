@@ -6,9 +6,12 @@
 
      // Configure file associations to languages (e.g. "*.extension": "html"). These have precedence over the default associations of the languages installed.
     "files.associations": {
-        "*.hamlc" : "haml",
-        "*.jst.eco" : "html",
-        "*.tpl" : "html",
+        "*.hamlc": "haml",
+        "*.jst.eco": "html",
+        "*.blade.php": "html",
+        "*.tpl": "html",
+        "*.jst": "html",
+        "*.latte": "latte"
     },
 
     "editor.parameterHints": false,
@@ -17,7 +20,7 @@
     "editor.codeLens": false,
     "editor.renderLineHighlight": "none",
     "explorer.openEditors.visible": 0,
-    "workbench.colorTheme": "Default Light+",
+    "workbench.colorTheme": "Default High Contrast",
     "workbench.iconTheme": "vs-minimal",
     "workbench.welcome.enabled": false,
     "editor.minimap.enabled": false,
