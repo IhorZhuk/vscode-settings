@@ -26,5 +26,6 @@
     "editor.minimap.enabled": false,
     "emmet.triggerExpansionOnTab": true,
     "window.zoomLevel": -1,
+    "editor.cursorStyle": "line",
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
 }
