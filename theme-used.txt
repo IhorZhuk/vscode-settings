@@ -1,3 +1,13 @@
 1.
   Light+ (default light)
   Minimal icons
+  
+  
+  Extensions
+  Git Graph
+  Todo Tree
+  Git Blame
+  DotENV
+  vscode-styled-components
+  
+  Font: Menlo, Monaco, 'Courier New', monospace
